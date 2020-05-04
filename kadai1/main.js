@@ -1,5 +1,4 @@
 'use strict';
-    
     function fizzbuzz(){
       for(let i = 1; i <= 99; i++){
         if(i % 15 === 0){
@@ -11,5 +10,4 @@
         }
       }
     }
-    
     fizzbuzz();
